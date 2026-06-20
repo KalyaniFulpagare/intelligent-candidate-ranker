@@ -1,0 +1,685 @@
+{
+  "honeypot_ids": [
+    "CAND_0095480",
+    "CAND_0061722",
+    "CAND_0070429",
+    "CAND_0007353",
+    "CAND_0084182",
+    "CAND_0071115",
+    "CAND_0018515",
+    "CAND_0065710",
+    "CAND_0043721",
+    "CAND_0057711",
+    "CAND_0010770",
+    "CAND_0093364",
+    "CAND_0086808",
+    "CAND_0016000",
+    "CAND_0035104",
+    "CAND_0093331",
+    "CAND_0007413",
+    "CAND_0048740",
+    "CAND_0063888",
+    "CAND_0095317",
+    "CAND_0053734",
+    "CAND_0065787",
+    "CAND_0039754",
+    "CAND_0038431",
+    "CAND_0065096",
+    "CAND_0070189",
+    "CAND_0077239",
+    "CAND_0005291",
+    "CAND_0077250",
+    "CAND_0090900",
+    "CAND_0072379",
+    "CAND_0073853",
+    "CAND_0010294",
+    "CAND_0036299",
+    "CAND_0056983",
+    "CAND_0066405",
+    "CAND_0095619",
+    "CAND_0060642",
+    "CAND_0046649",
+    "CAND_0064077",
+    "CAND_0036839",
+    "CAND_0037980",
+    "CAND_0013536",
+    "CAND_0033131",
+    "CAND_0055992",
+    "CAND_0003430",
+    "CAND_0091534",
+    "CAND_0040853",
+    "CAND_0052478",
+    "CAND_0055685",
+    "CAND_0003582",
+    "CAND_0024752",
+    "CAND_0033817",
+    "CAND_0042245",
+    "CAND_0091068",
+    "CAND_0037539",
+    "CAND_0046689",
+    "CAND_0095140",
+    "CAND_0096150",
+    "CAND_0008960",
+    "CAND_0040075",
+    "CAND_0033972",
+    "CAND_0042453",
+    "CAND_0025579",
+    "CAND_0055792",
+    "CAND_0074119"
+  ],
+  "count": 66,
+  "details": [
+    {
+      "candidate_id": "CAND_0003430",
+      "title": "Business Analyst",
+      "yoe": 13.7,
+      "reasons": [
+        "YOE=13.7 but earliest job starts 2025 (only 1 yrs of history)",
+        "Career history = 0.9 yrs but YOE stated as 13.7"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0003582",
+      "title": "Mobile Developer",
+      "yoe": 8.2,
+      "reasons": [
+        "Expert in 'MLflow' with only 0 months",
+        "Expert in 'Photoshop' with only 0 months",
+        "Expert in 'Content Writing' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0005291",
+      "title": "Business Analyst",
+      "yoe": 12.8,
+      "reasons": [
+        "YOE=12.8 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 0.9 yrs but YOE stated as 12.8"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0007353",
+      "title": "Frontend Engineer",
+      "yoe": 9.9,
+      "reasons": [
+        "Current role duration (166mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0007413",
+      "title": "Business Analyst",
+      "yoe": 13.3,
+      "reasons": [
+        "YOE=13.3 but earliest job starts 2022 (only 4 yrs of history)",
+        "Career history = 1.3 yrs but YOE stated as 13.3"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0008960",
+      "title": "Graphic Designer",
+      "yoe": 10.3,
+      "reasons": [
+        "Current role duration (171mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0010294",
+      "title": ".NET Developer",
+      "yoe": 8.0,
+      "reasons": [
+        "Current role duration (144mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0010770",
+      "title": "Recommendation Systems Engineer",
+      "yoe": 15.2,
+      "reasons": [
+        "YOE=15.2 but earliest job starts 2019 (only 7 yrs of history)"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0013536",
+      "title": "Applied ML Engineer",
+      "yoe": 14.1,
+      "reasons": [
+        "YOE=14.1 but earliest job starts 2021 (only 5 yrs of history)",
+        "Career history = 4.7 yrs but YOE stated as 14.1"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0016000",
+      "title": "Full Stack Developer",
+      "yoe": 2.0,
+      "reasons": [
+        "Expert in 'TypeScript' with only 0 months",
+        "Expert in 'Go' with only 0 months",
+        "Expert in 'Docker' with only 0 months",
+        "Expert in 'Hadoop' with only 0 months",
+        "Expert in 'Photoshop' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0018515",
+      "title": "Marketing Manager",
+      "yoe": 8.5,
+      "reasons": [
+        "Current role duration (150mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0024752",
+      "title": "Civil Engineer",
+      "yoe": 14.9,
+      "reasons": [
+        "YOE=14.9 but earliest job starts 2022 (only 4 yrs of history)",
+        "Career history = 0.7 yrs but YOE stated as 14.9"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0025579",
+      "title": "HR Manager",
+      "yoe": 12.9,
+      "reasons": [
+        "YOE=12.9 but earliest job starts 2024 (only 2 yrs of history)",
+        "Career history = 1.0 yrs but YOE stated as 12.9"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0033131",
+      "title": "Operations Manager",
+      "yoe": 12.7,
+      "reasons": [
+        "YOE=12.7 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 1.3 yrs but YOE stated as 12.7"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0033817",
+      "title": "HR Manager",
+      "yoe": 13.3,
+      "reasons": [
+        "Expert in 'JavaScript' with only 0 months",
+        "Expert in 'BigQuery' with only 0 months",
+        "Expert in 'Six Sigma' with only 0 months",
+        "Expert in 'gRPC' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0033972",
+      "title": "QA Engineer",
+      "yoe": 6.0,
+      "reasons": [
+        "Expert in 'Airflow' with only 0 months",
+        "Expert in 'OpenCV' with only 0 months",
+        "Expert in 'Figma' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0035104",
+      "title": "Software Engineer",
+      "yoe": 5.5,
+      "reasons": [
+        "Current role duration (114mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0036299",
+      "title": "Mobile Developer",
+      "yoe": 12.2,
+      "reasons": [
+        "YOE=12.2 but earliest job starts 2022 (only 4 yrs of history)",
+        "Career history = 0.7 yrs but YOE stated as 12.2"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0036839",
+      "title": "Operations Manager",
+      "yoe": 8.1,
+      "reasons": [
+        "Expert in 'SAP' with only 0 months",
+        "Expert in 'GCP' with only 0 months",
+        "Expert in 'Rust' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0037539",
+      "title": "Project Manager",
+      "yoe": 4.9,
+      "reasons": [
+        "Current role duration (106mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0037980",
+      "title": "Senior Applied Scientist",
+      "yoe": 9.0,
+      "reasons": [
+        "12 expert skills claimed (threshold=12 for 'Senior Applied Scientist')"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0038431",
+      "title": "Mobile Developer",
+      "yoe": 15.0,
+      "reasons": [
+        "YOE=15.0 but earliest job starts 2022 (only 4 yrs of history)",
+        "Career history = 1.3 yrs but YOE stated as 15.0"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0039754",
+      "title": "Senior Applied Scientist",
+      "yoe": 16.2,
+      "reasons": [
+        "YOE=16.2 but earliest job starts 2018 (only 8 yrs of history)"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0040075",
+      "title": "Marketing Manager",
+      "yoe": 15.0,
+      "reasons": [
+        "Current role duration (228mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0040853",
+      "title": "Operations Manager",
+      "yoe": 1.1,
+      "reasons": [
+        "Current role duration (61mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0042245",
+      "title": "Business Analyst",
+      "yoe": 7.9,
+      "reasons": [
+        "Expert in 'Databricks' with only 0 months",
+        "Expert in 'BentoML' with only 0 months",
+        "Expert in 'Vue.js' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0042453",
+      "title": "Marketing Manager",
+      "yoe": 4.2,
+      "reasons": [
+        "Current role duration (98mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0043721",
+      "title": "Sales Executive",
+      "yoe": 4.5,
+      "reasons": [
+        "Current role duration (102mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0046649",
+      "title": "Business Analyst",
+      "yoe": 3.8,
+      "reasons": [
+        "Expert in 'SAP' with only 0 months",
+        "Expert in 'Node.js' with only 0 months",
+        "Expert in 'gRPC' with only 0 months",
+        "Expert in 'Flask' with only 0 months",
+        "Expert in 'Hadoop' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0046689",
+      "title": "Business Analyst",
+      "yoe": 2.3,
+      "reasons": [
+        "Expert in 'Node.js' with only 0 months",
+        "Expert in 'SQL' with only 0 months",
+        "Expert in 'gRPC' with only 0 months",
+        "Expert in 'Spark' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0048740",
+      "title": "HR Manager",
+      "yoe": 9.9,
+      "reasons": [
+        "Expert in 'gRPC' with only 0 months",
+        "Expert in 'Angular' with only 0 months",
+        "Expert in 'Content Writing' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0052478",
+      "title": "Marketing Manager",
+      "yoe": 12.4,
+      "reasons": [
+        "YOE=12.4 but earliest job starts 2025 (only 1 yrs of history)",
+        "Career history = 1.3 yrs but YOE stated as 12.4"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0053734",
+      "title": "Sales Executive",
+      "yoe": 8.6,
+      "reasons": [
+        "Current role duration (151mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0055685",
+      "title": "Customer Support",
+      "yoe": 1.4,
+      "reasons": [
+        "Current role duration (64mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0055792",
+      "title": ".NET Developer",
+      "yoe": 9.8,
+      "reasons": [
+        "Expert in 'Scrum' with only 0 months",
+        "Expert in 'TTS' with only 0 months",
+        "Expert in 'LoRA' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0055992",
+      "title": "AI Engineer",
+      "yoe": 16.9,
+      "reasons": [
+        "YOE=16.9 but earliest job starts 2019 (only 7 yrs of history)",
+        "Career history = 6.7 yrs but YOE stated as 16.9"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0056983",
+      "title": "Accountant",
+      "yoe": 12.3,
+      "reasons": [
+        "Expert in 'Rust' with only 0 months",
+        "Expert in 'Next.js' with only 0 months",
+        "Expert in 'Redis' with only 0 months",
+        "Expert in 'Salesforce CRM' with only 0 months",
+        "Expert in 'MongoDB' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0057711",
+      "title": "Java Developer",
+      "yoe": 7.7,
+      "reasons": [
+        "Current role duration (140mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0060642",
+      "title": "Frontend Engineer",
+      "yoe": 3.0,
+      "reasons": [
+        "Expert in 'Milvus' with only 0 months",
+        "Expert in 'Agile' with only 0 months",
+        "Expert in 'Azure' with only 0 months",
+        "Expert in 'Diffusion Models' with only 0 months",
+        "Expert in 'MongoDB' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0061722",
+      "title": "Software Engineer",
+      "yoe": 6.8,
+      "reasons": [
+        "Expert in 'Terraform' with only 0 months",
+        "Expert in 'GANs' with only 0 months",
+        "Expert in 'Milvus' with only 0 months",
+        "Expert in 'MongoDB' with only 0 months",
+        "Expert in 'Speech Recognition' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0063888",
+      "title": ".NET Developer",
+      "yoe": 2.4,
+      "reasons": [
+        "Expert in 'Project Management' with only 0 months",
+        "Expert in 'Accounting' with only 0 months",
+        "Expert in 'MLOps' with only 0 months",
+        "Expert in 'React' with only 0 months",
+        "Expert in 'Webpack' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0064077",
+      "title": "Project Manager",
+      "yoe": 10.1,
+      "reasons": [
+        "Current role duration (169mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0065096",
+      "title": "Civil Engineer",
+      "yoe": 6.7,
+      "reasons": [
+        "Expert in 'ETL' with only 0 months",
+        "Expert in 'Tally' with only 0 months",
+        "Expert in 'Flask' with only 0 months",
+        "Expert in 'Rust' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0065710",
+      "title": "Marketing Manager",
+      "yoe": 4.4,
+      "reasons": [
+        "Current role duration (100mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0065787",
+      "title": "Java Developer",
+      "yoe": 10.9,
+      "reasons": [
+        "YOE=10.9 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 1.2 yrs but YOE stated as 10.9"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0066405",
+      "title": "Cloud Engineer",
+      "yoe": 12.3,
+      "reasons": [
+        "YOE=12.3 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 1.1 yrs but YOE stated as 12.3"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0070189",
+      "title": "Operations Manager",
+      "yoe": 6.9,
+      "reasons": [
+        "Current role duration (130mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0070429",
+      "title": "Software Engineer",
+      "yoe": 8.1,
+      "reasons": [
+        "Expert in 'MLOps' with only 0 months",
+        "Expert in 'Figma' with only 0 months",
+        "Expert in 'Accounting' with only 0 months",
+        "Expert in 'YOLO' with only 0 months",
+        "Expert in 'Java' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0071115",
+      "title": "Recommendation Systems Engineer",
+      "yoe": 16.5,
+      "reasons": [
+        "YOE=16.5 but earliest job starts 2020 (only 6 yrs of history)",
+        "Career history = 5.8 yrs but YOE stated as 16.5"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0072379",
+      "title": "Content Writer",
+      "yoe": 3.8,
+      "reasons": [
+        "Expert in 'Azure' with only 0 months",
+        "Expert in 'Redux' with only 0 months",
+        "Expert in 'Illustrator' with only 0 months",
+        "Expert in 'Spark' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0073853",
+      "title": "Operations Manager",
+      "yoe": 8.0,
+      "reasons": [
+        "Expert in 'CI/CD' with only 0 months",
+        "Expert in 'Marketing' with only 0 months",
+        "Expert in 'GCP' with only 0 months",
+        "Expert in 'Excel' with only 0 months",
+        "Expert in 'AWS' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0074119",
+      "title": "Content Writer",
+      "yoe": 11.4,
+      "reasons": [
+        "YOE=11.4 but earliest job starts 2024 (only 2 yrs of history)",
+        "Career history = 1.1 yrs but YOE stated as 11.4"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0077239",
+      "title": "Content Writer",
+      "yoe": 7.6,
+      "reasons": [
+        "Current role duration (139mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0077250",
+      "title": "Project Manager",
+      "yoe": 13.1,
+      "reasons": [
+        "YOE=13.1 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 1.5 yrs but YOE stated as 13.1"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0084182",
+      "title": "Civil Engineer",
+      "yoe": 12.7,
+      "reasons": [
+        "Current role duration (200mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0086808",
+      "title": "Graphic Designer",
+      "yoe": 11.4,
+      "reasons": [
+        "YOE=11.4 but earliest job starts 2024 (only 2 yrs of history)",
+        "Career history = 1.2 yrs but YOE stated as 11.4"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0090900",
+      "title": "Senior Data Engineer",
+      "yoe": 11.7,
+      "reasons": [
+        "YOE=11.7 but earliest job starts 2023 (only 3 yrs of history)",
+        "Career history = 0.8 yrs but YOE stated as 11.7"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0091068",
+      "title": "HR Manager",
+      "yoe": 12.7,
+      "reasons": [
+        "YOE=12.7 but earliest job starts 2024 (only 2 yrs of history)",
+        "Career history = 1.0 yrs but YOE stated as 12.7"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0091534",
+      "title": "AI Engineer",
+      "yoe": 16.6,
+      "reasons": [
+        "YOE=16.6 but earliest job starts 2019 (only 7 yrs of history)"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0093331",
+      "title": "NLP Engineer",
+      "yoe": 16.1,
+      "reasons": [
+        "YOE=16.1 but earliest job starts 2019 (only 7 yrs of history)"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0093364",
+      "title": "Business Analyst",
+      "yoe": 7.9,
+      "reasons": [
+        "Current role duration (142mo) exceeds total YOE"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0095140",
+      "title": "Backend Engineer",
+      "yoe": 5.0,
+      "reasons": [
+        "Expert in 'Kafka' with only 0 months",
+        "Expert in 'QLoRA' with only 0 months",
+        "Expert in 'CNN' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0095317",
+      "title": "HR Manager",
+      "yoe": 7.0,
+      "reasons": [
+        "Expert in 'Webpack' with only 0 months",
+        "Expert in 'Figma' with only 0 months",
+        "Expert in 'dbt' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0095480",
+      "title": ".NET Developer",
+      "yoe": 2.3,
+      "reasons": [
+        "Expert in 'Agile' with only 0 months",
+        "Expert in 'React' with only 0 months",
+        "Expert in 'Snowflake' with only 0 months",
+        "Expert in 'Content Writing' with only 0 months"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0095619",
+      "title": "NLP Engineer",
+      "yoe": 15.6,
+      "reasons": [
+        "YOE=15.6 but earliest job starts 2022 (only 4 yrs of history)",
+        "Career history = 4.2 yrs but YOE stated as 15.6"
+      ]
+    },
+    {
+      "candidate_id": "CAND_0096150",
+      "title": "Accountant",
+      "yoe": 14.7,
+      "reasons": [
+        "YOE=14.7 but earliest job starts 2024 (only 2 yrs of history)",
+        "Career history = 0.8 yrs but YOE stated as 14.7"
+      ]
+    }
+  ]
+}

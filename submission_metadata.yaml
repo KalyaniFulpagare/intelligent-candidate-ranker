@@ -1,0 +1,48 @@
+team_name: "KalyaniFulpagare"
+
+primary_contact:
+  name: "Kalyani Fulpagare"
+  email: "your-email@example.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Kalyani Fulpagare"
+    email: "your-email@example.com"
+    role: "Solo participant"
+
+github_repo: "https://github.com/KalyaniFulpagare/intelligent-candidate-ranker"
+sandbox_link: "https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK"
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Google Colab (CPU runtime)"
+  cpu_cores: 2
+  ram_gb: 12
+  python_version: "3.11"
+  os: "Ubuntu 22.04 LTS"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 2
+
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architecture discussion and code review.
+  All scoring logic and design decisions are original work.
+  No candidate data was fed to any hosted LLM during ranking.
+
+methodology_summary: |
+  Rule-and-signal-based pipeline: honeypot detection (66 excluded),
+  named disqualifier flags from JD text, trust-weighted skill scoring
+  gated by career plausibility to defeat keyword stuffers, behavioral
+  modifier from 23 redrob_signals. Runtime ~30s for 100K candidates,
+  peak memory <2GB. Zero honeypots in top 100.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
